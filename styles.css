@@ -1,0 +1,27 @@
+/* .test-box {
+    border-left: 10px solid red;
+    border-right: 10px solid blue;
+    border-top: 10px solid orange;
+    border-bottom: 10px solid black;
+} */
+/* .test-box {
+    border: 2px solid red;
+    padding: 33px;
+  } */
+
+/* .test-box {
+    border: 2px solid red;
+    padding: 12px;
+    margin: 22px;
+  } */
+.test-box {
+    border: 2px solid red;
+    padding: 11px 22px 10px 14px;
+    margin: 100px;
+    background-color: rgb(153, 153, 83);
+    
+  }
+.test-box:hover{
+    transform: rotate(13deg)
+}
+  
